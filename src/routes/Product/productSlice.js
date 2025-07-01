@@ -41,7 +41,7 @@ const productSlice = createSlice({
             localStorage.setItem('product', JSON.stringify(s.value));
         },
         total: () => {
-            const tot = 0;
+            let tot = 0;
             tot += product.count;
             return tot;
         },
