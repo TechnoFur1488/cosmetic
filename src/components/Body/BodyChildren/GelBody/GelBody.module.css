@@ -1,0 +1,43 @@
+.container {
+    display: flex; 
+    flex-wrap: wrap;
+    padding-top: 84px;
+    height: 100vh;
+}
+
+.contanerProduct {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.contanerProduct:not(:last-child) {
+    margin-right: 39px;
+}
+
+.btnLikeBucket {
+    background-color: inherit;
+    border: none;
+    cursor: pointer;
+}
+
+
+.productImg {
+    display: flex;
+    flex-direction: column;
+    padding: 54px 34px;
+    background-color: #D9D9D9;
+}
+
+.btnDiv {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.spanDiv {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}

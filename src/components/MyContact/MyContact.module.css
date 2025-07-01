@@ -1,0 +1,25 @@
+.sectionS {
+    background-image: url("../../../public/images/3b69742eb38c3cef3c49cfcbe9744657 1.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.title {
+    text-align: center;
+    font-weight: 400;
+    margin-bottom: 10%;
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    padding: 73px 0;
+    font-size: 32px;
+    color: white;
+    max-width: 600px;
+    height: 471px;
+    margin: 0 auto;
+    background-color: #AFC07B;
+    border-radius: 10px;
+}

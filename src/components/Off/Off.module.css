@@ -1,0 +1,116 @@
+.container {
+    max-width: 1440px;
+    margin: 0 auto;
+}
+
+.container h3 {
+    font-size: 32px;
+}
+
+.line {
+    width: 884px;
+    height: 1px;
+    background-color: black;
+}
+
+.spann {
+    font-size: 32px;
+    width: 250px;
+    text-align: center;
+    padding-right: 39px;
+}
+
+.btn {
+    background-color: #93A267;
+    width: 602px;
+    height: 130px;
+    border: none;
+    cursor: pointer;
+    font-size: 32px;
+    font-weight: 700;
+    margin-top: 30px;
+}
+
+.divF {
+    display: flex;
+    align-items: center;
+}
+
+.sel {
+    width: 410px;
+    height: 69px;
+    border: none;
+    border-radius: 20px;
+}
+
+.sFlex {
+    display: flex;
+    align-items: center;
+    padding-top: 62px;
+}
+
+.inSp {
+    display: flex;
+    justify-content: space-between;
+    font-size: 32px;
+    width: 486px;
+}
+
+.adres {
+    display: flex;
+    align-items: center;
+    padding-top: 62px;
+}
+
+.inpur {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 896px;
+}
+
+.com {
+    display: flex;
+    align-items: center;
+    padding-top: 62px;
+}
+
+.in {
+    width: 884px;
+    background-color: inherit;
+    border: none;
+    font-size: 24px;
+}
+
+.con {
+    display: flex;
+    align-items: center;
+}
+
+.Fff {
+    margin-bottom: 46px;
+}
+
+.asd {
+    display: flex;
+    align-items: center;
+    padding-top: 62px;
+}
+
+.opl {
+    font-size: 32px;
+}
+
+.divOpl {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-bottom: 97px;
+}
+
+.adr {
+    width: 200px;
+    height: 63px;
+    border: none;
+    border-radius: 20px;
+}

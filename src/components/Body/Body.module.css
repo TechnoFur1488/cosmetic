@@ -1,0 +1,38 @@
+.container {
+    max-width: 1440px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.container h1 {
+    font-size: 32px;
+    font-weight: 400;
+}
+
+body {
+    background: rgb(203,217,162);
+    background: linear-gradient(205deg, rgba(203,217,162,1) 30%, rgba(229,241,207,1) 100%);
+}
+
+.list {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.listItem {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.listItem a {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 30px;
+    width: 255px;
+    height: 75px;
+    background-color: rgba(227, 227, 201, 1);
+    font-size: 24px;
+}
